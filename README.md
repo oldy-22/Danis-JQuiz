@@ -3,9 +3,9 @@ Java Vokabeltrainer
 
 Mit dem Programm könnt ihr eingebaute und auch eigene Vokabeldateien trainieren.
 Ihr könnt dabei entweder
-o Text eingeben als Lösung oder
-o Galgenraten oder
-o aus Quiz-Lösungen die Lösung heraussuchen.
+- Text eingeben als Lösung oder
+- Galgenraten oder
+- aus Quiz-Lösungen die Lösung heraussuchen.
 
 Dabei versucht das Programm, wirklich die Quizlösungen so ähnlich zu gestalten, wie die Lösung, dass z.B. bei kurzer Aufgabe, nicht eine lange Lösung sofort als flasch auffällt.
 
