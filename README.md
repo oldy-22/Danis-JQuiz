@@ -14,7 +14,7 @@ Wenn ihr dem Programm erlaubt, eine ini Datei zu schreiben, werden verschiedene 
 Schaut euch mal an (auch gern in den source Dateien), wie das Galgen-Männchen am Ende des Galgenratens zappelt. Es sind zufällige Bewegungen, die aber miteinander korrespondieren (Arme & Beine) um ein echt leidendes Galgenmännchen darzustellen. Ich glaube, man merkt es an, dass mir das beim coden "Mords-Gaudi" gemacht hat. 😈
 
 Es ist aber von der Programmier-Perspektive für mich fast noch interessanter zu sehen, wie das Programm sowohl mit 100 Vokabeln umgehen kann als auch mit 100.000! Und es ist fast kein zeitlicher Unterschied merklich obwohl JAVA bei weitem keine schnelle Hoch-Sprache ist. Probiert es gern aus! Im wb-eng-ger sind ca. 30.ooo Vokabeln drin. Eigentlich wollte ich immer mal Parser schreiben, dass man z.B. Verben hieraus o.ä. lernen kann, weil ja 30k Zeilen zu kategoriesieren voll öde ist. Bin hier aber nie wirklich über die Idee hinausgekommen... 
-
+Geladen wird das Ganze in Bruchteilen von 1 sec.
  
 
 ![grafik](https://user-images.githubusercontent.com/56628625/151678564-e96144b3-57c5-47b1-b3ec-176a5b57236f.png)
