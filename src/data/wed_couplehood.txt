@@ -1,0 +1,618 @@
+worthwhile	der Mühe wert
+brink	Rand
+smack	Geschmack, Klaps geben
+overwhelming	überwältigend
+accomplish	vollenden
+frontier	Grenze
+grab	ergreifen
+thumb	Daumen
+mutual	gegenseitig, gemeinsam
+throat	Kehle, Hals
+stomach	Magen
+sweaty	verschwitzt
+nauseous	ekelhaft
+distinguish	unterscheiden
+convince	überzeugen
+propose	vorschlagen
+purpose	Zweck
+share	Teil
+desire	Wunsch, Verlangen
+actually	tatsächlich
+stare	anstarren
+tiptoe	auf Zehenspitzen gehen
+reveal	offenbaren
+wear	zur Schau tragen
+cute	niedlich, süß
+swipe	schlagen, klauen
+scare	erschrecken
+snore	schnarchen
+odd	ungerade, einzeln
+brother	kümmern
+raise	heben, erhöhen
+dearly	teuer
+chew	kauen, nachsinnen
+sip	schlückchenweise trinken
+hum	summen
+shallow	oberflächlich
+cranky	schlechtgelaunt
+yell	aufschreien
+ability	Fähigkeit
+lick	lecken
+worse	schlimmer
+slap	schlagen
+stuck	stecken, kleben
+I wonder if	vielleicht
+tires	Reifen
+particular	besondere, genau
+stupid	dumm
+stationery	Briefpapier, Schreibwaren
+fairly	ziemlich, völlig
+obvious	klar, einleuchtend
+plenty of	reichlich
+slam	zuschlagen, zuknallen
+grander	größere
+goal	Ziel
+jot down	schnell notieren
+awake	wach, munter
+be awake to	sich bewußt sein
+rule	Regel, Vorschrift, Regierung, Lineal
+persist	beharren, bestehen, fortdauern
+negotiate	verhandeln über
+puddle	Pfütze
+distracted	beunruhigt, besorgt, außer sich, wahnsinnig
+chest	Kasten, Brustkasten
+entertain	(unterhalten), bewirten
+pasty, sticky	klebrig
+dumb	doof, dumm, blöd
+fond	zärtlich
+unavoidable	unvermeidlich
+invariable	unveränderlich
+drag	Schleppen, Zerren
+squint	schielen, blinzeln
+disappointment	Enttäuschung
+swear	schwören, fluchen
+tuck	stecken
+cheek	Wange
+fluff up	aufschütteln, aufplustern
+dress up	fein machen
+nope	ne, nein
+feature	Gesichtszug, Merkmal, kennzeichnen
+revolve	sich drehen
+finite	begrenzt, endlich
+humble	demütig, bescheiden
+stain	Fleck
+be upset	aufgeregt sein
+discover	entdecken
+scrubbing	schrubben, scheuern
+gap	Lücke, Kluft
+awful	furchtbar, schrecklich
+convenient	bequem, günstig
+effort	Anstrengung, Mühe
+admit	zulassen, zugeben
+drip	tropfen, triefen
+frankly	frei, freimütig, offen
+pleasurable	vergnüglich
+tremendous	schrecklich, ungeheuer, gewaltig
+suppose	voraussetzen, vermuten
+be supposed	sollen
+sensual	sinnlich
+crack up	zusammenbrechen
+honest	ehrlich, aufrichtig, echt
+terrific	toll, phantastisch
+hood	Kapuze
+ass	Esel
+brush	bürsten, fegen
+brush teeth	Zähne putzen
+razor	Rasierapparat
+squeeze	drücken
+perception	Wahrnehmung, Erkenntnis
+distort	verdrehen, verzerren
+hook	Haken
+rough	grob, ungefähr, rauh
+promise	versprechen
+stubble	Stoppeln
+smell	riechen
+woeful	jammervoll, elend
+negligent	nachlässig
+awkward	ungeschickt, unbeholfen, linkisch, unangenehm, dumm, ungünstig
+tough	zäh, robust, hart, grob, brutal, übel
+hurt	verletzen, verwunden, schmerzen, weh tun, schaden
+genuine	aufrichtig
+intention	Absicht, Vorsatz
+exercise	üben, ausüben, bewegen, sich bewegen
+dazzle	blenden, betäuben
+display	Entfaltung, Zeigen
+skip	springen, überspringen
+shape	gestalten, formen, bilden, anpassen
+sweat	schwitzen
+cottage cheese	Hüttenkäse
+fine	schön, fein, rein, spitz, dünn, scharf
+fine	geziert, vornehm
+I'm fine	mir geht es gut
+lard	Schweinefett
+scoop	schöpfen, schaufeln
+enforce	erzwingen, aufzwingen
+somehow	irgendwie
+pile	Haufen, Stapel, Stoß
+for the sake of	um ...  willen
+for my sake	meinetwegen
+for God's sake	um Gottes willen
+disappear	verschwinden
+literal	wortwörtlich, buchstäblich, prosaisch
+evaporate	verdunsten, verdampfen
+nutritious	nahrhaft
+gain	gewinnen, erreichen, bekommen, zunehmen an
+beg	bitten
+drop	tropfen, fallen lassen
+guess	glauben, denken, vermuten, raten
+launch	Starten
+nap	Nickerchen
+succession	Folge
+sheer	rein, bloß
+grocery	Lebensmittelgeschäft
+console	trösten, Bedienungspult
+warring	bekriegen
+cease	aufhören
+cease-fire	Waffenstillstand
+resume	wiederaufnehmen, fortsetzen
+hostility	Feindseligkeit
+slaughter	schlachten, niedermetzeln
+schedule	Plan, Fahrplan
+thumbing	durchblättern
+intention	Absicht
+estate	Grundstück
+oppose	sich widersetzen
+weak	schwach
+seemingly	scheinbar
+quiet	ruhig, still
+gender	Geschlecht
+bear	Bär, tragen, gebären, {ein Gefühl} hegen
+offend	beleidigen, verletzen, kränken
+bug	Fehler
+bugging	ärgern, wütend machen
+lounge	faulenzen, schlendern
+dull	dumm, träge, stumpf
+once	einmal, jemals, einst
+particularly	besonders
+though	obwohl
+remarkable	außergewöhnlich
+refuse	verweigern, abweisen
+relegate	verbannen, verweisen
+what the hell	was zum Teufel
+vanity	Eitelkeit, Toilettentisch
+wardrobe	Garderobe, Kleiderschrank
+bulky	umfangreich, sperrig
+rather	eher, lieber
+clash	Zusammenstoß, Konflikt
+clash	nicht zusammenpassen, nicht harmonieren
+resent	übelnehmen
+invade	überfallen
+flee	fliehen, meiden
+hail	hageln, rufen, grüßen
+myriad	Myriade, Unzahl
+variance	Widerspruch, Unterschied
+huddle	zusammenkauern
+certainly	sicher, natürlich
+pant	nach Luft schnappen
+chuckling	leises Lachen
+frighten	erschrecken
+possession	Besitz
+reminder	Mahnung
+remind	erinnern
+tie	Band, Krawatte
+wig	Perücke
+skirt	Rock, Schoß
+goose	Gans
+crib	Kinderbett, Krippe
+fend off	abwehren
+presumption	Vermutung, Wahrscheinlichkeit, Anmaßung 
+mood	Laune
+courageous	mutig
+responsibility	Verantwortung
+swamp	Sumpf
+figure out	rauskriegen
+frankly	frei, offen
+venture	sich wagen
+pound	stoßen, hämmern, schlagen
+festering resentment	eiternden Groll (Ärger)
+kidding so.	jemandem etwas vormachen
+auditioning	anhören
+calm	still, ruhig
+nutty	nußartig, verrückt
+sane	geistig gesund
+coherent	zusammenhängend
+ultimately	schließlich
+for ... sake	um ...  willen
+prove	beweisen, prüfen
+suspect	vermuten, befürchten, verdächtigen
+elaborate	sorgfältig ausgearbeitet, kompliziert
+selfish	selbstsüchtig
+concerned	besorgt
+ugliness	Häßlichkeit, Gemeinheit
+lurk	lauern
+stick	stecken, steckenbleiben
+failure	Versagen, Ausbleiben
+raw	roh, wund, rauh {Wetter}, ungeübt
+suck	saugen, lutschen
+jaw	der Kiefer, Maul
+obsess	quälen
+at least	wenigstens
+than	als
+curse	verfluchen, strafen
+prevail	herrschen, vorherrschen, die Oberhand haben
+mad	toll, verrückt, wütend, wild
+rush	Jagen, Eile, Sturm
+wake	Kielwasser, im Gefolge, aufwachen
+buddy	Kamerad
+carnage	Blutbad
+reckless	unbekümmert, rücksichtslos, leichtsinnig
+annoy	ärgern, belästigen
+abandon	aufgeben, verlassen
+strain	strapazieren, anstrengen, belasten
+charge	laden, beladen, beauftragen, belehren
+recognize	anerkennen, zugeben, einsehen
+solace	Trost, trösten
+complain	sich beklagen, klagen
+dismiss	wegschicken, ablehnen
+disgust	Ekel, Abscheu
+sigh	seufzen, sich sehnen
+once in a while	dann und wann
+chat	plaudern
+stick it out	durchhalten
+revenge	Rache
+crawl	kriechen, schleichen, kraulen
+scorn	Verachtung, Spott
+get in line	in eine Warteschlange kommen
+bounce	Schwung, springen, aufprallen
+rhyme	Reim, Vers
+rhyme or reason	Sinn und Verstand
+dangle	baumeln
+appliance	Gerät, Mittel
+shelve	in ein Regal stellen
+self-conscious	befangen, gehemmt, unsicher
+announce	ankündigen, bekanntgeben
+habit	Gewohnheit
+amplify	erweitern, <elek.>verstärken
+lazy	faul, träge, langsam
+face	ansehen, gegenüberstehen, gehen auf
+whose	dessen (Gen. von who)
+quite	ganz, völlig, ziemlich, sehr, durchaus
+adjust	in Ordnung bringen
+bother	belästigen, stören, plagen
+remote control	Fernbedienung
+preface	einleiten
+confirm	bekräftigen, bestätigen
+dislodge	vertreiben, verjagen, entfernen
+hardware	Eisenwaren, Haushaltswaren
+forcible	gewaltsam, Zwangs-, eindringlich, wirksam
+chove	schieben, stoßen
+a pair of scissors	(eine) Schere
+glove	Handschuh
+tangerine	Mandarine
+buttocks	Gesäß, Hinterteil
+behavior	Benehmen
+indifference	Gleichgültigkeit
+hostility	Feindseligkeit
+dishes	Geschirr
+dish	flache Schüssel, Platte, Speise
+sink	Ausguß, Spüle
+sink	sinken, Ausguß, Spüle
+assume	annehmen, übernehmen
+mention	erwähnen
+lag	Verzögerung
+annoyance	Störung
+event	Ereignis
+jar	Krug, Topf, Glas
+mustard	Senf
+counter	Theke, Ladentisch, Schalter
+by all means	auf alle Fälle, unbedingt
+willing	bereit, willig
+forgo	verzichten auf
+honor	ehren, beehren, honorieren
+merge	verschmelzen, fusionieren
+engage	verpflichten
+be engaged	verlobt sein, beschäftigt sein
+division	Teilung, Trennung, Abteilung
+labor	Arbeit, Mühe
+natural	natürlich, angeboren, ungezwungen, unehelich
+location	Lage, Standort, Platz
+assignment	Zuweisung, Aufgabe
+can	Kanne, Dose
+affection	Zuneigung
+multiply	vervielfältigen, multiplizieren
+couple	Paar
+ a couple of	ein paar mal
+task	Aufgabe, Arbeit, beschäftigen, in Anspruch nehmen
+beloved	geliebt, Geliebter
+occasional	gelegentlich
+carpet	Teppich
+involve	verwickeln, umfassen, zur Folge haben, betreffen
+sick	krank
+repulsive	abstoßend {auch <Phys.>}, widerwärtig
+grass	Gras, Rasen, Weide
+raspberry	Himbeere
+pathetical	kläglich, mitleiderregend
+desperate	verzweifelt, hoffnungslos, schrecklich
+plea	Einspruch, Ausrede, Gesuch
+bargain	Vertrag, Abmachung, Geschäft
+blurt out	herausplatzen mit
+mess	Unordnung, Schmutz, Schweinerei
+sound	gesund, intakt, solide, stabil, sicher, vernünftig
+puke	kotzen, auskotzen
+sponge	Schwamm, Schmarotzer, Biskuitkuchen
+hit	schlagen, stoßen, treffen
+incentive	Ansporn, Antrieb
+blend	mischen, sich mischen
+burden	Last, Bürde, belasten
+approach	näherkommen, sich nähern
+forehead	Stirn
+groin	Leistengegend
+pilfer	stehlen
+dissuade	jemandem abraten
+wrap up	wickeln, einwickeln
+lie	lügen, Lage
+rib	Rippe, hänseln
+cage	Käfig, Förderkorb, einsperren
+suffocate	ersticken
+cozy	behaglich, gemütlich
+contend	kämpfen, ringen
+contention	Streit, Argument, Behauptung
+treat	behandeln, betrachten
+figure	abbilden, darstellen
+apply	legen, anwenden
+belch	aufstoßen
+repugnant, repellent	abstoßend, widerlich
+tacit	stillschweigend
+owe	verdanken, schulden
+deserve	verdienen
+haul	ziehen, Zug, Fischzug, Transport
+intend	vorhaben, planen
+elbow	Ellbogen, Biegung
+await	erwarten
+pot	Topf, Kanne, Pokal
+roast	B/braten, rösten
+fumigate	ausräuchern, desinfizieren
+reject	verwerfen, ablehnen
+investigate	untersuchen, überprüfen
+nook	Ecke, Winkel
+cranny	Riß, Ritze
+beat	schlagen, prügeln, besiegen, übertreffen
+tantalize	quälen
+stump	Stumpf, verblüffen, stampfen
+pass out	ohnmächtig werden
+evident(ly)	offenbar, klar
+get rid of	loswerden
+rid	befreien, frei machen
+cheetah	Gepard
+hippo	Nilpferd
+gut	Darm, das Innere, Mumm
+flood	überfluten
+slay	erschlagen, töten
+elk	Elch
+thread	Zwirn, Gewinde, einfädeln
+tie a knot	einen Knoten binden
+rip	Riß, reißen, rasen
+whine	winseln, wimmern
+me anyway	ich jedenfalls
+precede	vorausgehen
+pill	Pille
+chunk	Klumpen
+decision	Entscheidung, Entschlossenheit
+afterward	nachher, später
+colon	Doppelpunkt, Dickdarm
+contribute	beitragen, spenden
+basket	Korb, Gondel
+bloated	geschwollen, aufgeblasen
+queasy	empfindlich (Magen, Gewissen)
+I feel queasy.	Mir ist übel.
+goat	Ziege
+belly	Bauch
+sour	sauer, (fig.) verbittert
+sustain	stützen, aushalten, erleiden
+despite (of)	Verachtung, (trotz)
+punish	strafen, bestrafen
+nutrition	Ernährung, Nahrung
+enlist	anwerben, jemanden gewinnen
+bowl	Kugel, rollen, Stadion
+cereal	Getreide, Müsli
+stuff	stopfen, vollstopfen
+crusty	krustig, mürrisch, barsch
+muster	mustern
+fling, toss, throw	werfen, schleudern
+clarify	klären
+It's fine.	Es ist gut. (Adv.)
+tempt	verleiten, verlocken
+apologize to so.	sich entschuldigen
+refer	verweisen an, überweisen an, erwähnen, nachschlagen in
+divorce	Ehe scheiden
+satisfy	befriedigen, überzeugen
+forth	vor, vorwärts, weiter, fort, heraus
+chat	plaudern
+hot beverage	heißes Getränk
+apart	einzeln, getrennt, für sich
+apart from	abgesehen von
+consistent	konsequent
+palatable	wohlschmeckend
+cinnamon	Zimt
+compete	sich bewerben, konkurrieren
+piteous	kläglich
+tale	Erzählung, Märchen, Sage
+frantic (-ally)	wahnsinnig
+comb	Kamm
+boulder	Findling
+dash	Schlag, Schwung, rasen ...
+pretend	vortäuschen, Anspruch erheben
+pathetic	kläglich, mitleiderregend
+hint	Wink, Anspielung
+accidental	zufällig, versehentlich,
+instead	statt dessen, dafür
+stink	stinken
+sacrifice	opfern
+gaze	starrer Blick, starren
+embarrassing	unangenehm, peinlich
+aisle	Gang (zw. Sitzen)
+rescue	retten, befreien
+advice	Ratschlag
+benefit	Vorteil, Rente, Unterstützung
+blame	tadeln
+be to blame for, guilty	schuld sein an
+uneasy	unbehaglich, unruhig, unsicher
+widow	Witwe
+concoct	zusammenbrauen, aushecken
+belligerent	streitlustig, aggressiv
+nifty	hübsch, schick, fesch, stinkend
+mock	verspotten, nachmachen, täuschen
+neck	Hals, Nacken, knutschen, schmusen mit
+lying	lügnerisch, verlogen
+plague	plagen, quälen
+hazard	Zufall, Gefahr, Wagnis
+inevitable	unvermeidlich, zwangsläufig
+seep	sickern, durchsickern
+survive	überleben
+bump	Erschütterung, stoßen Beule
+breast	Brust, Busen, Herz
+settle	sich niederlassen, sich setzen
+commit	anvertrauen, übergeben
+curiosity	Neugier, Rarität
+favor	Gunst, Gefallen, Begünstigung
+mature	reif, reifen, fällig
+mate	verheiraten, paaren, Kamerad, Gatte
+apparent	sichtbar, anscheinend, offenbar
+consider	betrachten, sich überlegen
+tame	zahm, folgsam, harmlos
+occasion	Gelegenheit, Anlaß, (festliches) Ereignis
+calf, calves	Wade, Kalb
+allure	locken, anlocken, verlocken
+recently	kürzlich, neulich
+credit	Ruf, Verdienst, Guthaben, {jemandem} glauben trauen
+whimper	wimmern, winseln
+inadvertent	unachtsam, versehentlich
+recover the dignity	Würde wiederherstellen
+he's cheating on her	er betrügt sie
+affectionate	liebevoll
+flaw	Sprung, Riß, Fehler, zerbrechen, beschädigen
+crowd	Masse, Menge, Gedränge
+presumable	vermutlich
+boast	prahlen, Prahlerei
+doubt	zweifeln, mißtrauen
+inherent	innewohnend, angeboren, eigen
+pucker	spietzen (Lippen), runzeln (Stirn)
+scream	schreien, kreischen
+flatter	schmeicheln
+unless	wenn ... nicht, außer wenn ...
+sneak	schleichen, stibitzen, petzen
+peek	spähen, gucken, lugen
+check	Schach, anhalten, hindern, kontrollieren
+stab	aufspießen, stechen
+lunatic	irrsinnig, Geisteskranker
+jolt	stoßen, rütteln, holpern
+shabby	schäbig, gemein
+expect	erwarten, annehmen
+adamant	unerbittlich
+distinct	verschieden, getrennt, deutlich
+humiliation	Demütigung
+nowadays	heutzutage
+latitude, longitude	Breite, Länge
+hut, (cabin)	Hütte, Baracke
+hat	Hut
+scorch	versengen, verbrennen, rasen
+tall boy	groß, lang, hoch ...
+conscious	bei Bewußtsein, bewußt
+pants	Hose, Schlüpfer
+provide	sorgen, vorsorgen
+appreciate	schätzen, dankbar sein für
+leak	lecken, tropfen
+leak out	auslaufen, ausströmen, entweichen
+release	freilassen, erlösen, Uraufführung
+all of a sudden, suddenly	plötzlich, ganz plötzlich
+fake	fälschen, imitieren, Schwindel
+intent	gespannt, aufmerksam, konzentriert auf, Absicht, Vorhaben
+supper, The Lord's s.	Abendessen, Abendmahl
+dangle	baumeln, baumeln lassen
+cruel	grausam, roh, gefühllos
+tease	necken, hänseln, ärgern
+worm	Wurm, sich einschleichen
+advertise	ankündigen, bekanntmachen, inserieren
+bait	ködern, quälen, piesacken
+hammer & anvil	Hammer & Amboß
+scream	schreien, kreischen
+shed	aus-, vergießen, verbreiten, Schuppen, Stall, (Blätter) abwerfen
+sleeve	Ärmel, Buchse
+crate	Kiste
+bald	kahl, dürftig, unverblümt
+might	Macht, Gewalt, Kraft, Prät. v. may
+savage	Wilder, Rohling, Barbar
+bucket	Eimer, Kübel
+puppy	Welpe, junger Hund
+hush	still!, Stille
+adore	anbeten, verehren
+lobster	Hummer
+fur	Pelz, Belag
+penalize	bestrafen
+dorm	Schlafsaal, Studentenwohnheim
+itch	jucken
+scratch	zerkratzen, schrammen, kraulen
+crunch	kauen, zermalmen, knirschen
+manure	Dünger, Mist
+nasty	schmutzig, böse, garstig
+sew	nähen, heften
+pillow	Kissen
+appropriate	sich aneignen, verwenden, angemessen
+indignity	Demütigung
+bill	Schnabel, Spitze, Rechnung, Klageschrift
+thirst	Durst
+leaf	Blatt, Flügel, Klappe
+lap	Schoß, Runde (Sport)
+lap up	auflecken
+straw hat	Strohhut
+clue	Fingerzeig, Spur
+ boo and hiss	buhen und zischen
+breed	erzeugen, erziehen, züchten, sich fortpflanzen
+venom	Gift
+thorough	gründlich, genau, vollkommen, vollständig
+lack	Mangel
+conceivable	denkbar, begreiflich
+competition	Wettbewerb
+thrill	erschauern lassen, erregen, packen
+merit	Wert, Vorzug, verdienen
+phony	falsch, unecht
+rain bonnet	Regenhaube
+branch	Ast, Zweig, Fach
+insist	bestehen, beharren
+nag	nörgeln
+blunder	einen Fehler machen, stolpern, verpfuschen
+appeal (to)	appellieren, sich wenden, (gefallen jmd.)
+cough	husten
+spit	aufspießen, spucken, fauchen, sprühen (fein regnen)
+saliva	Speichel
+indulgent	nachsichtig, nachgiebig
+obnoxious	anstößig, widerwärtig
+hound (hunt)	jagen, hetzen, Jagdhund
+skull	Schädel
+knuckle	Knöchel
+scrap	schaben, kratzen, scharren, streifen
+towel	trocknen, abtrocknen, reiben
+attitude	Einstellung, Haltung
+chase	jagen, verfolgen, rasen, rennen
+injure	verletzen, beschädigen, kränken
+fist	Faust
+squirrel	Eichhörnchen
+deterrent	abschreckend
+suspicion	Verdacht, Mißtrauen, Spur
+squeak	quieken, piepsen, quietschen
+dig	graben, umgraben, ausgraben
+nightmare	Alptraum
+faucet (AE)	Hahn, Wasserhahn
+rinse	spülen, abspülen, ausspülen
+gargle	gurgeln
+incident	zufällig, gelegentlich, Neben..., beiläufig
+blanket	Decke, zudecken
+conceal	verbergen, verheimlichen
+crucial	entscheidend, kritisch
+tug	ziehen, zerren
+gingerly	zimperlich, behutsam, vorsichtig
+spiteful	boshaft, gehässig
+unctuous	fettig, ölig, salbungsvoll
+bliss -> blissfully	Seligkeit, Wonne
+donate	schenken, stiften
+prop	stützen, lehnen

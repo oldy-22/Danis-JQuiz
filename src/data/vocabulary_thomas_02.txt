@@ -1,0 +1,209 @@
+ocak	Januar
+şubat	Februar
+mart	März
+nisan	April
+mayıs	Mai
+haziran	Juni
+temmuz	Juli
+ağustos	August
+eylül	September
+ekim	Oktober
+kasım	November
+aralık	Dezember
+Pazartesi	Montag
+salı	Dienstag
+çarşamba 	Mittwoch
+perşembe 	Donnerstag
+cuma	Freitag
+cumartesi	Samstag
+pazar	Sonntag
+hafta sonu	Wochenende
+sıfır	0
+bir	1
+iki	2
+üç	3
+dört	4
+beş	5
+altı	6
+yedi	7
+sekiz	8
+dokuz	9
+on	10
+yirmi	20
+otuz	30
+kırk	40
+elli	50
+altmış	60
+yetmiş	70
+seksen	80
+doksan	90
+yüz	100
+iki yüz	200
+iki yüz bir	201
+bin	1000
+bin dokuz yüz doksan sekiz	1998
+bir milyon	1 000 000
+artı	plus
+eşittir	gleich
+eksi	minus
+çarpı	mal
+bölü	geteilt durch
+hangi?	welcher?
+niçin?	Warum?
+öyleyse	wenn es so ist
+Peki efendim	Jawohl
+adresin	deine Adresse
+bu da	und das
+yok	es gibt nicht
+çünkü	denn
+Ne tesadüf!	Was für ein Zufall!
+Yaşlı	Alt (für Personen)
+bende	bei mir
+yalnız	allein
+ama	aber
+Ne tasadüf	Was für ein Zufall
+İşte burası!	Hier ist es!
+Haklısınız.	Sie haben Recht
+çocuğunuz var mı?	Haben Sie Kinder?
+misafirlikte	zu Besuch
+misafirlik, -iği	Gastbesuch, Zu-Besuch sein
+olarak	als
+şey…	Dingsda…/Also..
+çünkü	denn
+Amma çok soruyorsun, ha!	Fragst du aber viel, Mensch!
+kadar	so viel wie, bis
+biz	wir
+dünya savaş	Weltkrieg
+vakit	Zeit
+dans etmek	tanzen
+okumak	lesen / vorlesen
+toplamak	aufräumen
+temizlemek	saubermachen
+yıkamak	waschen
+beklemek	warten
+bilmek	wissen, können
+sıkmak	pressen, ausdrücken
+söndürmek	ausmachen
+sormak	fragen
+yatmak	schlafen
+bulaşık yıkamak	abspülen
+iş aramak	Arbeit suchen
+sulamak	gießen
+çamaşır yıkamak	Wäsche waschen
+gazete okumak	Zeitung lesen
+etmek	tun
+bulaşık yıkamak	abspülen
+alışveriş yapmak	einkaufen
+kahve pişirmek	Kaffee kochen
+olmak	werden, sein
+çalmak	klopfen an
+yıkanıyor	waschen
+gezmek	spazieren gehen
+televizyon izlemek	fernsehen
+müzik dinlemek	Musik hören
+yüzmek	schwimmen
+görüyor	sehen
+yatıyor	schlafen
+telefon etmek	telefonieren
+mektup yazmak	Briefe schreiben
+çiçek sulamak	Blumen gießen
+tekrarlamak	wiederholen
+almak	nehmen / holen
+satın almak	kaufen
+vermek	geben
+istemek	möchten / wollen
+içmek	trinken / rauchen
+yazmak	schreiben
+aramak	suchen
+bulmak	finden
+görmek	sehen
+göstermek	zeigen
+dinlemek	hinhören, gehorchen
+getirmek	herbringen, herholen
+götürmek	hinbringen, wegbringen
+beklemek	warten auf, erwarten
+çağırmak	jdn. (herbei-)rufen
+tanımak	kennen, (wieder-)erkennen
+sevmek	mögen, gern haben
+unutmak	vergessen
+göndermek	schicken
+gezmek	besichtigen
+açmak	öffnen
+kapamak	schließen
+bırakmak	lassen
+rahat bırakmak	in Ruhe lassen
+koymak	hin-stellen, -legen
+sormak	nach jdm. fragen
+satmak	verkaufen
+temilik yapmak	sauber machen
+temizlemek	etwas putzen
+bulaşık	schmutzig
+kötümser	pessimistisch
+iyimser	optimistisch
+gelecek	zukünftig
+utangaç	schüchtern
+istemeyerek	ungern
+severek	gern
+ciddi	ernst
+oldukça	ziemlich
+yorucu	anstrengend
+kolay	leicht
+işsiz	arbeitslos
+soğuk	kalt
+boş	leer
+hafif	leicht an Gewicht
+yorucu	anstrengend
+bekar	ledig
+meraklı	Fan, neugierig
+yalnız	allein
+taşımak	tragen
+bulmak	finden
+bağırmak	rufen
+yapmak	machen, tun
+görünüş	Aussehen
+Kütuphane	Bibliothek
+şarap	Wein
+genellikle	im Allgemeinen
+çamaşır	Wäsche
+ev hanımı	Hausfrau
+bakkal	Krämer
+raf	Regal
+sokak	Strasse
+ağaç	Baum
+dolap	Schrank
+çiçek	Blume
+tereyağı	Butter
+soğan	Zwiebel
+anahtar	Schlüssel
+fincan	Tasse
+şişe	Flasche
+cadde	Strasse
+rüya	Traum
+yıl; sene	das (Kalender) Jahr
+kazak	Pullover
+dergi	Zeitschrift
+işsizlik, -iği	Arbeitslosigkeit
+eczane	Apotheke
+beyaz	weiss
+sarı	gelb
+sabah	Morgen
+tar	um
+sonra	nachher, später
+saniye	die Sekunde
+yarım gün	halber Tag
+yarın	Morgen
+dünden beri	seit gestern
+yaş	das Lebensjahr
+geçiyor, çeirek var	viertel
+…yaşında	…Jahre alt
+bütün gün	den ganzen Tag
+meslek, - eği	Beruf
+Sizin mesleğiniz ne?	Welchen Beruf haben Sie?
+dişçi	Zahnarzt
+gözlükçü	Optiker
+Ne iş yapıyorsunuz	Was machen Sie beruflich?
+işsiz	arbeitslos
+işsizlik	Arbeitslosigkeit
+Sizin mesleğiniz ne?	Welchen Beruf haben Sie?
+avukat	Rechtsanwalt
+hemşire	Krankenschwester

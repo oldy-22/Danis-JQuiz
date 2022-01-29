@@ -1,0 +1,96 @@
+/*
+ * History
+ * kommende Funktionalitäten (known bugs): Layout noch nicht befriedigend - weiß ich :-)
+
+
+ * @version 2.xx vom 02.12.07
+ - debug ausschalten im jar
+ -	o  GUI mit menus oben
+ - o finde Subst., Verben, Adjerktive, Sonst
+    mit Proportionen auch nur das vorschlagen
+ - o Rolle merken in ini
+ - o später wieder Aufnehmen - Button für von der Rolle werfen aber ungelöst lassen
+   @ version 1.3.1.vom 24.04.21 für RD/KB auf die Schnelle
+   e DEBUG ausschalten
+   
+ * @version 1.2.2 vom 01.10.14
+ *		erste Vokabeln für Jo hinzu engl.
+ *		a Hin- und Rückfrage-Möglichkeit schaffen: askBackwards
+ * @version 1.2.1 vom 10.11.2009 -> DEBUGMODE
+ * 	+ Hilfetexte am Anfang etwas umgestellt zur besseren Benutzerführung
+ * 	- ohne Ampel kann noch geraten werden 
+ * 	- Lernrolle auch nach Neueinstieg laden, vielleicht als Option
+ * 	eigene Lektionen erstellen möglich machen mit Suchfunktionen
+ * 	dazu Menuzeile mit ladbaren Büchern & Erstellmöglichkeiten für Lektionen
+ * 
+ * 	Scrollbare StatusZeile für History anschauen u.U. speicherbar
+ * 
+ * 	LernRolle als Klasse mit LernMuster z.B. [0,1,2,4,8] nur anzeigen,
+ * 		wenn i++ == vorkommt, damit Eintrag zum Schluss seltener kommt und
+ * 		nach der letzten Zahl wieder in uaq zurückfällt zur späteren Abfrage
+ * 	
+ * 	wenn durchgeraten Fenster "You've made it! Beginne von vorne"
+ *     Hilfe-Fenster mit html hinzu ??
+ * @version 1.2.1 vom 02.12.07
+ *		irreguläre Verben für Bobo hinzu, 
+ *		Bugfix: interne Wörterbücher wurden jede Sitzung neu angefangen als work arround (siehe loadBooks)
+ *		Bugfix: 3.Feld Kommentar in QuizItemdazu, um bei irrVerbs z.B. go lösen zu können  
+ * @version 1.2.0 vom 17.08.07
+ * 	Bugfix für folgende Fehler
+ * 		+ 1. bei 1. Aufruf wird *.txt nicht geschrieben
+ * 		+ 2. nach 2. Aufruf ( .txt geschrieben) steht Zeitstempel auf Initial 1.1.1970
+ * 		+ 3. Lösungen kleiner 3 Buchstaben konnten nicht erraten werden (z.B. Lösung = 1)
+ * 	+ Class IniFileTools.IniSearcher impl.
+ * 
+ * @version 1.1.0 vom 21.07.07
+ * 	bugfix bei 2 Vokabeln in Liste (Problem mit Sperre letzter 2 Fragen
+ * 	Vokabelbücher bearbeitbar, Timestamps in INI zur Erkennung 
+ * 
+ * @version 1.0.1 vom 07.07.07
+ * 	für Thomas Schmid 2 türkische Wörterbücher eingebunden 
+ * 
+ * @version 0.11 vom 19.03.07 letzte Testversion
+ * 
+ * 	Lösung senden mit Enter
+ * 	richtig quizzen löst jetzt doch die Aufgabe
+ * 	Qualität der vorgeschlagenen Quizlösungen optimiert (dazu Verben/Subst.Test) 
+ * 
+ * @version 0.10 vom 08.03.07
+ * 	Grafik Galgenmännchen verbessert, färbt sich rot und zappelt am Schluss
+ * 
+ * @version 0.9 vom 26.12.06
+ * 	GalgenRaten jetzt mit Galgenmännchen-Grafik
+ * 	Bugs beseitigt: GalgenRaten Großbuchstaben ebenfalls setzen, Fenstergröße 
+ * 		wird ebenfalls in ini gespeichert, Fenster wird manchmal beim ersten Aufruf 
+ * 		nicht korrekt dargestellt wegen unterschiedlicher Auflösung (z.B. bei Wolfgang)
+ * 		letzte 2 Fragen werden gesperrt (nicht gefragt), doppelte Fragerei kam häufig vor
+ * 
+ * @version 0.8 vom 25.11.06
+ * 	JQuiz läuft auch ohne ini schreiben
+ * 	1. sucht ini im Home-Pfad: JQuiz/jquiz.ini (MultiUser)
+ * 	2. sucht ini im aktuellen Verzeichnis der Anwendung (nur OneUser möglich)
+ * 	3. fragt ob ohne ini gearbeitet werden soll, wenn nein neue ini im Home-Pfad
+ * 
+ * @version 0.7 vom 07.11.06
+ * 	Quizzen funktioniert
+ * 
+ * @version 0.6 vom 31.10.06
+ * 	mit GalgenRaten
+ * 
+ * @version 0.51 vom 17.10.06
+ * 	learnRoll in die Engine integriert zum Trainieren und schnelleren Wiederholen
+ * 	einer überschaubaren Menge von Vokabeln (10 Stück)
+ * 
+ * @version 0.5 vom 11.10.06
+ * 	mit ini-File für mehrere Sitzungen, UTF-8 als encoding
+ * 
+ * @version 0.4 vom 07.10.06
+ * 	jede Frage nur einmal stellen, NOCHMAL FRAGEN aktivieren
+ * 
+ * @version 0.3 vom 17.09.06 
+ * 	Vokalbel-Lösen ist lauffähig und damit vorerst Mal spielbar zur Vorbereitung
+ * 	auf Andrew 
+ * 
+ * @version 0.2 vom 01.01.06 
+ * 	Buchstaben-Layout mit GridLayout
+*/

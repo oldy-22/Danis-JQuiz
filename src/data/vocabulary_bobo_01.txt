@@ -1,0 +1,45 @@
+sehen	see, saw, seen
+see, saw, ...	seen
+see, ... , seen	saw
+gehen	go, went, gone
+go, went, ...	gone
+go, ... , gone	went
+sein	be, was, been
+be, was, ...	been
+be, ... , been	was
+bekommen	get, got, got
+get, got, ...	got
+get, ... , got	got
+singen	sing, sang, sung
+sing, sang, ...	sung
+sing, ... , sung	sang
+haben	have, had, had
+have, had, ...	had
+have, ... , had	had
+rennen	run, ran, run
+run, ran, ...	run
+run, ... , run	ran
+etwas werden	become, became, become
+become, became, ...	become
+become, ... , become	became
+beginnen	begin, began, begun
+begin, began, ...	begun
+begin, ... , begun	began
+(zer-) brechen	break, broke, broken
+break, broke, ... 	broken
+break, ... , broken	broke
+(her-) bringen	bring, brought, brought
+bring, brought, ...	brought
+bring, ... , brought	brought
+kaufen	buy, bought, bought
+buy, bought, ...	bought
+buy, ... , bought	bought
+(aus-) wählen	choose, chose, chosen
+choose, chose, ...	chosen
+choose, ... , chosen	chose
+kommen	come, came, come
+come, came, ...	come
+come, ... , come	came
+fahren	drive, drove, driven
+drive, drove, ...	driven
+drive, ... , driven	drove

@@ -1,0 +1,209 @@
+Januar	ocak
+Februar	şubat
+März	mart
+April	nisan
+Mai	mayıs
+Juni	haziran
+Juli	temmuz
+August	ağustos
+September	eylül
+Oktober	ekim
+November	kasım
+Dezember	aralık
+Montag	Pazartesi
+Dienstag	salı
+Mittwoch	çarşamba 
+Donnerstag	perşembe 
+Freitag	cuma
+Samstag	cumartesi
+Sonntag	pazar
+Wochenende	hafta sonu
+0	sıfır
+1	bir
+2	iki
+3	üç
+4	dört
+5	beş
+6	altı
+7	yedi
+8	sekiz
+9	dokuz
+10	on
+20	yirmi
+30	otuz
+40	kırk
+50	elli
+60	altmış
+70	yetmiş
+80	seksen
+90	doksan
+100	yüz
+200	iki yüz
+201	iki yüz bir
+1000	bin
+1998	bin dokuz yüz doksan sekiz
+1 000 000	bir milyon
+plus	artı
+gleich	eşittir
+minus	eksi
+mal	çarpı
+geteilt durch	bölü
+welcher?	hangi?
+Warum?	niçin?
+wenn es so ist	öyleyse
+Jawohl	Peki efendim
+deine Adresse	adresin
+und das	bu da
+es gibt nicht	yok
+denn	çünkü
+Was für ein Zufall!	Ne tesadüf!
+Alt (für Personen)	Yaşlı
+bei mir	bende
+allein	yalnız
+aber	ama
+Was für ein Zufall	Ne tasadüf
+Hier ist es!	İşte burası!
+Sie haben Recht	Haklısınız.
+Haben Sie Kinder?	çocuğunuz var mı?
+zu Besuch	misafirlikte
+Gastbesuch, Zu-Besuch sein	misafirlik, -iği
+als	olarak
+Dingsda…/Also..	şey…
+denn	çünkü
+Fragst du aber viel, Mensch!	Amma çok soruyorsun, ha!
+so viel wie, bis	kadar
+wir	biz
+Weltkrieg	dünya savaş
+Zeit	vakit
+tanzen	dans etmek
+lesen / vorlesen	okumak
+aufräumen	toplamak
+saubermachen	temizlemek
+waschen	yıkamak
+warten	beklemek
+wissen, können	bilmek
+pressen, ausdrücken	sıkmak
+ausmachen	söndürmek
+fragen	sormak
+schlafen	yatmak
+abspülen	bulaşık yıkamak
+Arbeit suchen	iş aramak
+gießen	sulamak
+Wäsche waschen	çamaşır yıkamak
+Zeitung lesen	gazete okumak
+tun	etmek
+abspülen	bulaşık yıkamak
+einkaufen	alışveriş yapmak
+Kaffee kochen	kahve pişirmek
+werden, sein	olmak
+klopfen an	çalmak
+waschen	yıkanıyor
+spazieren gehen	gezmek
+fernsehen	televizyon izlemek
+Musik hören	müzik dinlemek
+schwimmen	yüzmek
+sehen	görüyor
+schlafen	yatıyor
+telefonieren	telefon etmek
+Briefe schreiben	mektup yazmak
+Blumen gießen	çiçek sulamak
+wiederholen	tekrarlamak
+nehmen / holen	almak
+kaufen	satın almak
+geben	vermek
+möchten / wollen	istemek
+trinken / rauchen	içmek
+schreiben	yazmak
+suchen	aramak
+finden	bulmak
+sehen	görmek
+zeigen	göstermek
+hinhören, gehorchen	dinlemek
+herbringen, herholen	getirmek
+hinbringen, wegbringen	götürmek
+warten auf, erwarten	beklemek
+jdn. (herbei-)rufen	çağırmak
+kennen, (wieder-)erkennen	tanımak
+mögen, gern haben	sevmek
+vergessen	unutmak
+schicken	göndermek
+besichtigen	gezmek
+öffnen	açmak
+schließen	kapamak
+lassen	bırakmak
+in Ruhe lassen	rahat bırakmak
+hin-stellen, -legen	koymak
+nach jdm. fragen	sormak
+verkaufen	satmak
+sauber machen	temilik yapmak
+etwas putzen	temizlemek
+schmutzig	bulaşık
+pessimistisch	kötümser
+optimistisch	iyimser
+zukünftig	gelecek
+schüchtern	utangaç
+ungern	istemeyerek
+gern	severek
+ernst	ciddi
+ziemlich	oldukça
+anstrengend	yorucu
+leicht	kolay
+arbeitslos	işsiz
+kalt	soğuk
+leer	boş
+leicht an Gewicht	hafif
+anstrengend	yorucu
+ledig	bekar
+Fan, neugierig	meraklı
+allein	yalnız
+tragen	taşımak
+finden	bulmak
+rufen	bağırmak
+machen, tun	yapmak
+Aussehen	görünüş
+Bibliothek	Kütuphane
+Wein	şarap
+im Allgemeinen	genellikle
+Wäsche	çamaşır
+Hausfrau	ev hanımı
+Krämer	bakkal
+Regal	raf
+Strasse	sokak
+Baum	ağaç
+Schrank	dolap
+Blume	çiçek
+Butter	tereyağı
+Zwiebel	soğan
+Schlüssel	anahtar
+Tasse	fincan
+Flasche	şişe
+Strasse	cadde
+Traum	rüya
+das (Kalender) Jahr	yıl; sene
+Pullover	kazak
+Zeitschrift	dergi
+Arbeitslosigkeit	işsizlik, -iği
+Apotheke	eczane
+weiss	beyaz
+gelb	sarı
+Morgen	sabah
+um	tar
+nachher, später	sonra
+die Sekunde	saniye
+halber Tag	yarım gün
+Morgen	yarın
+seit gestern	dünden beri
+das Lebensjahr	yaş
+viertel	geçiyor, çeirek var
+…Jahre alt	…yaşında
+den ganzen Tag	bütün gün
+Beruf	meslek, - eği
+Welchen Beruf haben Sie?	Sizin mesleğiniz ne?
+Zahnarzt	dişçi
+Optiker	gözlükçü
+Was machen Sie beruflich?	Ne iş yapıyorsunuz
+arbeitslos	işsiz
+Arbeitslosigkeit	işsizlik
+Welchen Beruf haben Sie?	Sizin mesleğiniz ne?
+Rechtsanwalt	avukat
+Krankenschwester	hemşire
