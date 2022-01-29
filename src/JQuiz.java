@@ -21,7 +21,7 @@ public class JQuiz extends JFrame implements ActionListener {
 	
 	// ------------ Änderbare KOSTANTENDEFINITIONEN ------------
 	
-	public static final String APP_TITLE = "VQuiz - Danis Vokabeltrainer ";
+	public static final String APP_TITLE = "Vokabel-Quiz - Danis Vokabeltrainer ";
 	static String dedicatedTo ="";
 	public static String APP_VERSION = " - Version 1.3.1";
 	public static boolean DEBUG = false;
@@ -101,6 +101,7 @@ public class JQuiz extends JFrame implements ActionListener {
 		if (JQSettings.user  == JQSettings.TOMMI) dedicatedTo = "für Thomas ";
 		if (JQSettings.user  == JQSettings.JO) dedicatedTo = "für Johannes ";
 		if (JQSettings.user  == JQSettings.RDKB) dedicatedTo = "für RD/KB ";
+		if (JQSettings.user  == JQSettings.GITHUB) dedicatedTo = "für GitHub ";
 
 		JQuiz quiz = new JQuiz();
 

@@ -18,7 +18,7 @@ import javax.swing.border.*;
 
 public class JQuizBoxPanel extends Box {
 	final String[] books = new String [] {
-		"Wortliste vom Daimler 2020",
+		"Wörterbuch kpl.", //"Wortliste vom xyz 2020",
 		"Wortliste aus Couplehood",
 		"Wortliste Heikes geistl. Buch",
 		"unregelmäßige Verben für Bobo (engl. - deutsch)",

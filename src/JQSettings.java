@@ -47,9 +47,10 @@ public class JQSettings {
 	static final int BOBO = 2;
 	static final int JO = 3;
 	static final int RDKB = 4;
+	static final int GITHUB = 5;
 
 	/** der Benutzer, für den ich das Programm kompiliere*/
-	static int user=RDKB; // war NO_ONE; 141001
+	static int user=GITHUB; // war NO_ONE; 141001
 
 	String[] vocFileNames = new String [6];
 
@@ -68,13 +69,15 @@ public class JQSettings {
 			freeBook01="Jo001.txt"; freeBook02="vocabulary_01.txt";
 		} else if (user  == RDKB) {
 			freeBook01="vocabulary_free_01.txt"; freeBook02="vocabulary_free_02.txt";
+		} else if (user  == GITHUB) {
+			freeBook01="vocabulary_free_01.txt"; freeBook02="vocabulary_free_02.txt";
 		} else if (user  == NO_ONE) {
 			freeBook01="vocabulary_01.txt"; freeBook02="vocabulary_02.txt";
 		}
 
 		vocFileNames = new String [] {
-//			"wbeng-ger.txt",
-			"wed_rdkb.txt",
+			"wbeng-ger.txt",
+//			"wed_rdkb.txt",
 			"wed_couplehood.txt",
 			"wed_heike.txt",
 			"irregularVerbs.txt",
