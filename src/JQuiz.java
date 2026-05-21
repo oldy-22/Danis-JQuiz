@@ -23,7 +23,7 @@ public class JQuiz extends JFrame implements ActionListener {
 	
 	public static final String APP_TITLE = "Vokabel-Quiz - Danis Vokabeltrainer ";
 	static String dedicatedTo ="";
-	public static String APP_VERSION = " - Version 1.3.1";
+	public static String APP_VERSION = " - Version 1.4";
 	public static boolean DEBUG = false;
 	
 	// Begrüßungstext im Fragenfenster
@@ -85,6 +85,10 @@ public class JQuiz extends JFrame implements ActionListener {
 	// änderbare Inhalte aus JQuiz-Engine
 	JTextArea taskTextArea;
 	static JLabel statusRow;
+	
+	String galgenString = "";
+	String gestreckterGalgenString = "";
+
 
 	public static void main (String[] args) {
 		
@@ -419,8 +423,8 @@ public class JQuiz extends JFrame implements ActionListener {
 
 	/** GalgenRatenPanel wurde angeklickt, galgenRatenString initialisieren */
 	public void startGalgenRaten() {
-		String galgenString = engine.initGalgenRaten();
-		quizPane.setGalgenRatenTextArea (galgenString);
+		galgenString = engine.initGalgenRaten();
+		quizPane.setGalgenRatenTextArea ( stretchGalgenString(galgenString) );
 		quizPane.galgenPanel.showEmptyGalgen();
 	}
 
@@ -429,8 +433,8 @@ public class JQuiz extends JFrame implements ActionListener {
 		
 		int galgenIncrement = 1;
 		
-		StringBuffer galgenString = new StringBuffer();
-		float rate = engine.fillGalgenRaten (galgenString, quizPane.getGalgenRatenKey());
+		StringBuffer galgenStringBuffer = new StringBuffer();
+		float rate = engine.fillGalgenRaten (galgenStringBuffer, quizPane.getGalgenRatenKey());
 
 		if (rate > 0.36) galgenIncrement++;
 		if (rate > 0.24) galgenIncrement++;
@@ -438,7 +442,23 @@ public class JQuiz extends JFrame implements ActionListener {
 		int lightIncrement = quizPane.galgenPanel.showMoreOfGalgen(galgenIncrement);
 
 		if (isQuizzable(lightIncrement))		
-			quizPane.setGalgenRatenTextArea (new String (galgenString));
+			quizPane.setGalgenRatenTextArea ( stretchGalgenString(galgenStringBuffer.toString()));
+
+	}
+	
+	public String stretchGalgenString (String galgenString) {
+		// 260521 Test für Leerzeichen zwischen den Galganratenzeichen
+		// galgenRatenArea.setFont (new Font ("Dialog",Font.BOLD, 120) ); funktioniert nicht, hat keinen Effekt
+		char[] a = galgenString.toCharArray();
+		int l = galgenString.length();
+		
+		gestreckterGalgenString = String.valueOf(a[0]);
+		gestreckterGalgenString = gestreckterGalgenString.concat(" ");
+		for (int i=1; i<l; i++) {
+			gestreckterGalgenString = gestreckterGalgenString.concat(String.valueOf(a[i]));
+			gestreckterGalgenString = gestreckterGalgenString.concat(" ");
+		}
+		return gestreckterGalgenString;
 
 	}
 
