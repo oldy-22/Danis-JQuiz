@@ -16,14 +16,14 @@ import javax.swing.border.*;
  * Window&gt;Preferences&gt;Java&gt;Code Generation&gt;Code and Comments
  */
 
-public class JQuizBoxPanel extends Box {
+public class JQuizBoxPanel extends Box { //TODO ändern bei Veröffentlichung!!
 	final String[] books = new String [] {
-		"Wörterbuch kpl.", //"Wortliste vom xyz 2020",
-		"Wortliste aus Couplehood",
-		"Wortliste Heikes geistl. Buch",
-		"unregelmäßige Verben für Bobo (engl. - deutsch)",
-		"1. änderbares Wörterbuch " + JQuiz.dedicatedTo, 
-		"2. änderbares Wörterbuch " + JQuiz.dedicatedTo, 
+		"komplettes Wörterbuch - 22.187 Vokabeln", //"Wortliste vom xyz 2020",
+		"Wortliste aus dem englischen Buch Couplehood - 618 Vokabeln",
+		"Wortliste Buch von Heike englisch - 808 Vokabeln",
+		"unregelmäßige Verben für Bobo (engl. - deutsch) - 333 Vokabeln",
+		"1. änderbares Wörterbuch " + JQuiz.dedicatedTo + " - 109 Vokabeln", 
+		"2. änderbares Wörterbuch " + JQuiz.dedicatedTo + " - 78 Vokabeln", 
 	};
 	JTextArea[] labels;
 	ButtonGroup buttonGroup;

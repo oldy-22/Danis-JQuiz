@@ -70,7 +70,7 @@ public class JQSettings {
 		} else if (user  == RDKB) {
 			freeBook01="vocabulary_free_01.txt"; freeBook02="vocabulary_free_02.txt";
 		} else if (user  == GITHUB) {
-			freeBook01="vocabulary_free_01.txt"; freeBook02="vocabulary_free_02.txt";
+			freeBook01="wed_rdkb.txt"; freeBook02="Jo001.txt";
 		} else if (user  == NO_ONE) {
 			freeBook01="vocabulary_01.txt"; freeBook02="vocabulary_02.txt";
 		}
