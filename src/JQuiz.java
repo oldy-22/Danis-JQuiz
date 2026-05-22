@@ -457,6 +457,7 @@ public class JQuiz extends JFrame implements ActionListener {
 		for (int i=1; i<l; i++) {
 			gestreckterGalgenString = gestreckterGalgenString.concat(String.valueOf(a[i]));
 			gestreckterGalgenString = gestreckterGalgenString.concat(" ");
+			if (a[i] == ' ') gestreckterGalgenString.concat(" "); // bei Leerzeichen mehr Strecken noch
 		}
 		return gestreckterGalgenString;
 
