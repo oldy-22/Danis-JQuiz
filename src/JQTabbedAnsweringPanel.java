@@ -99,6 +99,7 @@ public class JQTabbedAnsweringPanel extends JPanel implements ActionListener, Ch
 		galgenRatenArea.setBorder ( BorderFactory.createLoweredBevelBorder () );
 		galgenRatenArea.setBackground (JQSettings.BOARDGREEN);
 		galgenRatenArea.setForeground(Color.WHITE);
+		galgenRatenArea.setEditable(false);
 		// galgenRatenArea.setFont (new Font ("ARIAL BOLD",Font.BOLD, 120) ); // funktioniert nicht, Textzeichen besser verziehem
 	
 		galgenRatenPanel.add(test);
